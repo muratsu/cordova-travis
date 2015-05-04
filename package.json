@@ -1,6 +1,6 @@
 {
   "name": "cordova-travis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "displays travis information about cordova repos",
   "bin": {
     "cordova-travis": "index.js"
